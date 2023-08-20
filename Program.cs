@@ -1,0 +1,25 @@
+﻿#pragma warning disable CA1416
+Console.Beep(1320,300);
+Console.Beep(1485,300);
+Console.Beep(1650,300);
+Console.Beep(1759,300);
+Console.Beep(1759,300);
+Console.Beep(1759,300);
+Console.Beep(1320,300);
+Console.Beep(1485,300);
+Console.Beep(1320,300);
+Console.Beep(1485,300);
+Console.Beep(1485,300);
+Console.Beep(1485,300);
+Console.Beep(1320,300);
+Console.Beep(1980,300);
+Console.Beep(1759,300);
+Console.Beep(1650,300);
+Console.Beep(1650,300);
+Console.Beep(1650,300);
+Console.Beep(1320,300);
+Console.Beep(1485,300);
+Console.Beep(1650,300);
+Console.Beep(1759,300);
+Console.Beep(1759,300);
+Console.Beep(1759,300);
